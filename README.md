@@ -1,9 +1,6 @@
-# COAST INTEGRATION MEDIA & COMMUNICATIONS
+# A television, AV, and data construction subcontractor
 
-
-You can usjhgjhe the [editor on GitHub](https://github.com/aaronblaron/aaronblaron.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are a small team in California ready to provide high density cabling and mechanical work for media production systems, monitor mounting and conference room wiring for AV, and certified structured cabling and fiber optic links for data systems.
 
 ### Markdown
 
